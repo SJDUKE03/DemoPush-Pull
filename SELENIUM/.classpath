@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-api-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-api-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-chrome-driver-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-chrome-driver-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-chromium-driver-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-chromium-driver-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-devtools-v85-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-devtools-v85-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-devtools-v99-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-devtools-v99-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-devtools-v100-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-devtools-v100-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-devtools-v101-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-devtools-v101-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-edge-driver-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-edge-driver-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-firefox-driver-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-firefox-driver-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-http-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-http-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-ie-driver-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-ie-driver-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-java-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-java-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-json-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-json-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-opera-driver-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-opera-driver-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-remote-driver-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-remote-driver-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-safari-driver-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-safari-driver-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-support-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-java-4.1.4/selenium-support-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM/selenium-server-4.1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
